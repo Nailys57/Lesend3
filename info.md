@@ -18,7 +18,7 @@
  > git diff
 
 Для возврата к определенному комиту:
-> git checkout
+> git checkout (commit_code)
 
 и вернуться к актуальной версии:
  > git checkout master
