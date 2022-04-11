@@ -18,9 +18,15 @@
  > git diff
 
 Для возврата к определенному комиту:
-> git checkout (commit_code)
+ > git checkout (commit_code)
 
 и вернуться к актуальной версии:
  > git checkout master
+
+ Для просмотра веток:
+ > git branch
+
+Чтобы создать ветку, нужно:
+ > git branch branch_name
 
 ![какая-то картинка](2907543_25cbf86e.jpeg)
