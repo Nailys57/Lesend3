@@ -35,5 +35,7 @@
 Для совмещения текущей ветки с веткой branch_name:
  > git merge branch_name
  
+ Для того чтобы удалить ветку branch_name? нужно написать:
+ > git branch -d branch_name
 
 ![какая-то картинка](2907543_25cbf86e.jpeg)
