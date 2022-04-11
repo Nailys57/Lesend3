@@ -29,7 +29,7 @@
 Чтобы создать ветку, нужно:
  > git branch branch_name
 
-Для совмещения текущей ветки с веткой branch_name:
- > git marge branch_name
+Для перехода к ветке branch_name:
+ > git checkout branch_name
 
 ![какая-то картинка](2907543_25cbf86e.jpeg)
